@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-i_(f&#u@nk@pp0tuir_&f5@20$#dr_l0qsi3#gy79tno0cw!r0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','localhost']
+ALLOWED_HOSTS = ['127.0.0.1','localhost','teacher-timetable.onrender.com']
 
 
 # Application definition
